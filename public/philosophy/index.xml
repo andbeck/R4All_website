@@ -11,5 +11,14 @@
 	<atom:link href="/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>R4All</title>
+      <link>/philosophy/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/philosophy/hero/</guid>
+      <description>We specialise in teaching R to those who’ve never used it before. Just as good is if you’ve used it, or are using it, but want to improve your foundation and workflow</description>
+    </item>
+    
   </channel>
 </rss>
