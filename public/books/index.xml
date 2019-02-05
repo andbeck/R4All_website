@@ -18,19 +18,7 @@
       
       <guid>/R4All_website/books/datasets/</guid>
       <description>Datasets used in Getting Started with R, Second Edition All the datasets (and more) one zip file.
-We don&amp;rsquo;t any longer distribute datasets for the first edition of Getting Started with R.
-Insights from Data Coming soon.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with R, First Edition</title>
-      <link>/R4All_website/books/gswr1/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/R4All_website/books/gswr1/</guid>
-      <description>“Blowing away any feeling of intimidation is what this book is about.” – Graeme Ruxton, Trends in Ecology Evolution.
-Designed for undergraduates, grad students and staff, we show you how to import, explore, graph, and start analysing your data, keeping you focused on your ultimate goals.
- A simple, easy, and engaging introduction to R for biologists. Walks readers through the fundamentals of using R, from that first step of importing datathrough to managing and exploring it and ultimately producing figures and analyses Delivers an efficient, accurate, reliable, and reproducible workflow.</description>
+We don&amp;rsquo;t any longer distribute datasets for the first edition of Getting Started with R.</description>
     </item>
     
     <item>
@@ -45,12 +33,13 @@ We got great feedback about our book &amp;ldquo;Getting Started with R, An Intro
     </item>
     
     <item>
-      <title>Insights from Data</title>
-      <link>/R4All_website/books/insights/</link>
+      <title>Miscellany</title>
+      <link>/R4All_website/books/miscellany/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/insights/</guid>
-      <description>Coming soon.</description>
+      <guid>/R4All_website/books/miscellany/</guid>
+      <description>Lost packages Here is a post Lost Packages about what to do if, when attempting to install a package you get a message like package ggfortify is not available (for R Version 3.2.4).
+Importing data update If you&amp;rsquo;re having a brain melt figuring out the difference between read_csv and read.csv and their use in the RStudio Import Dataset tool, look at this post about using the readr package and read_csv function to import data.</description>
     </item>
     
   </channel>

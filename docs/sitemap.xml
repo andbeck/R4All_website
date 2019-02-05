@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>/R4All_website/posts/a-little-bit-of-maximum-likelihood/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/R4All_website/posts/a-markdown-test/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
@@ -20,8 +28,24 @@
     
     <url>
     
-      <loc>/R4All_website/posts/just-a-test/</loc>
-      <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+      <loc>/R4All_website/posts/getting-lost-packages/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/R4All_website/posts/importing-data-update/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/R4All_website/posts/why-adjust-your-r-squared/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -44,14 +68,6 @@
     
     <url>
     
-      <loc>/R4All_website/books/gswr1/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/R4All_website/books/gswr2/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
@@ -60,7 +76,7 @@
     
     <url>
     
-      <loc>/R4All_website/books/insights/</loc>
+      <loc>/R4All_website/books/miscellany/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
