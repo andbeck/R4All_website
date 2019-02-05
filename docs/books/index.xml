@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on R4All</title>
+    <link>/books/</link>
+    <description>Recent content in Overview on R4All</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datasets</title>
+      <link>/books/datasets/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/datasets/</guid>
+      <description>Coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with R</title>
+      <link>/books/gswr/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/gswr/</guid>
+      <description>We are pleased to announce the second edition of Getting Started with R Paperback at OUP,Amazon uk, Amazon.com, Amazon.de, Buch.ch
+Electric version at Oxford Scholarship Online.
+Now based on using RStudio Now based around dplyr and ggplot2 for data management and grahics New basic examples for regression, 1-way ANOVA and 2-way ANOVA A whole new chapter on the Generalised Linear Model That same Getting Started with R attitude. We got great feedback about our book &amp;ldquo;Getting Started with R, An Introduction for Biologists&amp;rdquo;, but realised over the last couple of years that we were using and teaching R very differently from what we wrote about back in 2010.</description>
+    </item>
+    
+    <item>
+      <title>Insights from Data</title>
+      <link>/books/insights/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/insights/</guid>
+      <description>Coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>
