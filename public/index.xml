@@ -10,17 +10,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>R4All</title>
-      <link>/philosophy/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/philosophy/hero/</guid>
-      <description>&lt;p&gt;We specialise in teaching R to those who’ve never used it before. Just as good is if you’ve used it, or are using it, but want to improve your foundation and workflow
-&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title> </title>
       <link>/who-are-we/owen/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -63,6 +52,58 @@
       
       <guid>/posts/just-a-test/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>/books/datasets/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/datasets/</guid>
+      <description>&lt;p&gt;Coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with R</title>
+      <link>/books/gswr/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/gswr/</guid>
+      <description>&lt;p&gt;We are pleased to announce the second edition of Getting Started with R
+Paperback at OUP,Amazon uk, Amazon.com, Amazon.de, Buch.ch&lt;/p&gt;
+
+&lt;p&gt;Electric version at Oxford Scholarship Online.&lt;/p&gt;
+
+&lt;p&gt;Now based on using RStudio
+Now based around dplyr and ggplot2 for data management and grahics
+New basic examples for regression, 1-way ANOVA and 2-way ANOVA
+A whole new chapter on the Generalised Linear Model
+That same Getting Started with R attitude.
+We got great feedback about our book &amp;ldquo;Getting Started with R, An Introduction for Biologists&amp;rdquo;, but realised over the last couple of years that we were using and teaching R very differently from what we wrote about back in 2010. So we have almost completely rewritten for a very different and new Second Edition.&lt;/p&gt;
+
+&lt;p&gt;While many of the tools and functions have changed in this new edition, the content remains clear and enjoyable. We still walk your through, in that R4All style, from the basics of setting up your computer, through to data import and exploration and ultimately to a series of statistical models for interpreting data and experiments.&lt;/p&gt;
+
+&lt;p&gt;What is so different and new?
+Several recent developments in the R community have made it even easier for us to help you focus more on your data and questions. RStudio has emerged as a brilliant cross-platform interface to working with R. Furthermore, Hadley Wickham and colleagues, have developed several add-on packages including as dplyr, tidyr and ggplot2 that not only provide consistent and intuitive ways to work with your data, but are emerging as industry standards (academic and non-academic).&lt;/p&gt;
+
+&lt;p&gt;We couldn&amp;rsquo;t afford to ignore these developments. The second edition thus dispenses entirely with classic methods of using R, and instead embraces RStudio along with dplyr, tidyr and ggplot2.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll love it.&lt;/p&gt;
+
+&lt;p&gt;Anything else new?
+We have a new co-author, Dylan Childs. He better at using R than Owen and Andrew, and kind of grumpy, so fits in well.  He&amp;rsquo;s also helped us expand our stats offerings in the book.  Not only do we provide more examples for basic stats (Regression, 1-way ANOVA, 2-way ANOVA) but a whole new chapter on the Generalised Linear Model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insights from Data</title>
+      <link>/books/insights/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/insights/</guid>
+      <description>&lt;p&gt;Coming soon.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
