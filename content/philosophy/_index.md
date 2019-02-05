@@ -14,16 +14,12 @@ type = " "  # Do not modify.
 #  weight = 3
 +++
 
-This feature can be used for publishing content such as:
+For the uninitiated, R has a rather steep learning curve. We’ve developed a functional, example based approach to boosting you up the steepest part of the curve. We also focus on teaching you how to use R in a way that maximises your efficiency, productivity, and sanity. We start with that often elusive step of how to get your data into R…..
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+We pay special attention to equipping you to learn. We equip you with a solid foundation of skills, knowledge, and experience so that you can can acquire new R skills as and when you need them.
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
+The core functional portion of our courses is a module on importing data, exploring data and visualising data. This module provides the foundation on which we build all other components and provides a consistent approach to all methods in R.
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
+We use informative, interactive lectures with directed and self-directed practicals.
 
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
-
-## Phil1
+We are also a bit geeky and love to talk about R after work (at the pub, etc.)!

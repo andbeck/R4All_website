@@ -46,6 +46,24 @@
     </item>
     
     <item>
+      <title>A markdown test</title>
+      <link>/R4All_website/posts/a-markdown-test/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/R4All_website/posts/a-markdown-test/</guid>
+      <description>
+
+&lt;h2 id=&#34;some-code&#34;&gt;some code&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;ggplot(mapping=aes(x=1:10, y=1:10)) +
+  geom_point()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/R4All_website/R4All_website/posts/2019-02-05-a-markdown-test_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;288&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Just a test</title>
       <link>/R4All_website/posts/just-a-test/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
@@ -60,39 +78,103 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/R4All_website/books/datasets/</guid>
-      <description>&lt;p&gt;Coming soon.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;datasets-used-in-getting-started-with-r-second-edition&#34;&gt;Datasets used in Getting Started with R, Second Edition&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/R4All/datasets/archive/master.zip&#34;&gt;All the datasets (and more) one zip file&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;rsquo;t any longer distribute datasets for the first edition of Getting Started with R.&lt;/p&gt;
+
+&lt;h2 id=&#34;insights-from-data&#34;&gt;Insights from Data&lt;/h2&gt;
+
+&lt;p&gt;Coming soon.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Getting Started with R</title>
-      <link>/R4All_website/books/gswr/</link>
+      <title>Getting Started with R, First Edition</title>
+      <link>/R4All_website/books/gswr1/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/gswr/</guid>
-      <description>&lt;p&gt;We are pleased to announce the second edition of Getting Started with R
-Paperback at OUP,Amazon uk, Amazon.com, Amazon.de, Buch.ch&lt;/p&gt;
+      <guid>/R4All_website/books/gswr1/</guid>
+      <description>
 
-&lt;p&gt;Electric version at Oxford Scholarship Online.&lt;/p&gt;
 
-&lt;p&gt;Now based on using RStudio
-Now based around dplyr and ggplot2 for data management and grahics
-New basic examples for regression, 1-way ANOVA and 2-way ANOVA
-A whole new chapter on the Generalised Linear Model
-That same Getting Started with R attitude.
-We got great feedback about our book &amp;ldquo;Getting Started with R, An Introduction for Biologists&amp;rdquo;, but realised over the last couple of years that we were using and teaching R very differently from what we wrote about back in 2010. So we have almost completely rewritten for a very different and new Second Edition.&lt;/p&gt;
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/R4All_website/R4All_website/img/FirstEdCover.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;“Blowing away any feeling of intimidation is what this book is about.” – &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169534712001590&#34;&gt;Graeme Ruxton, Trends in Ecology Evolution&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Designed for undergraduates, grad students and staff, we show you how to import, explore, graph, and start analysing your data, keeping you focused on your ultimate goals.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A simple, easy, and engaging introduction to R for biologists.&lt;/li&gt;
+&lt;li&gt;Walks readers through the fundamentals of using R, from that first step of importing datathrough to managing and exploring it and ultimately producing figures and analyses&lt;/li&gt;
+&lt;li&gt;Delivers an efficient, accurate, reliable, and reproducible workflow.&lt;/li&gt;
+&lt;li&gt;We provide a simple, efficient, reliable, accurate, and reproducible workflow for you in an engaging and sometimes humorous format.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Getting Started with R – its the book you and your students want to read before all the others.&lt;/p&gt;
+
+&lt;p&gt;Well, it was. Now you should only look at &lt;a href=&#34;/R4All_website/R4All_website/books/gswr2/&#34;&gt;the Second Edition&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with R, Second Edition</title>
+      <link>/R4All_website/books/gswr2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/R4All_website/books/gswr2/</guid>
+      <description>
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/R4All_website/R4All_website/img/SecondEdCover.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We are pleased to announce the second edition of Getting Started with R
+Paperback at &lt;a href=&#34;https://global.oup.com/academic/product/getting-started-with-r-9780198787846?cc=ch&amp;amp;lang=en&amp;amp;&#34;&gt;OUP&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.co.uk/Getting-Started-R-Introduction-Biologists/dp/0198787847&#34;&gt;Amazon UK&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/Getting-Started-R-Introduction-Biologists/dp/0198787847&#34;&gt;Amazon.com&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.de/Getting-Started-R-Andrew-Beckerman/dp/0198787847&#34;&gt;Amazon.de&lt;/a&gt;, &lt;a href=&#34;https://www.orellfuessli.ch/shop/home/suchartikel/ID46438190.html&#34;&gt;Buch.ch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198787839.001.0001/acprof-9780198787839&#34;&gt;Electric version at Oxford Scholarship Online.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We got great feedback about our book &amp;ldquo;Getting Started with R, An Introduction for Biologists&amp;rdquo;, but realised over the last couple of years that we were using and teaching R very differently from what we wrote about back in 2010. So we have almost completely rewritten for a very different and new Second Edition.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Now based on using RStudio&lt;/li&gt;
+&lt;li&gt;Now based around dplyr and ggplot2 for data management and grahics&lt;/li&gt;
+&lt;li&gt;New basic examples for regression, 1-way ANOVA and 2-way ANOVA&lt;/li&gt;
+&lt;li&gt;A whole new chapter on the Generalised Linear Model&lt;/li&gt;
+&lt;li&gt;That same Getting Started with R attitude.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;While many of the tools and functions have changed in this new edition, the content remains clear and enjoyable. We still walk your through, in that R4All style, from the basics of setting up your computer, through to data import and exploration and ultimately to a series of statistical models for interpreting data and experiments.&lt;/p&gt;
 
-&lt;p&gt;What is so different and new?
-Several recent developments in the R community have made it even easier for us to help you focus more on your data and questions. RStudio has emerged as a brilliant cross-platform interface to working with R. Furthermore, Hadley Wickham and colleagues, have developed several add-on packages including as dplyr, tidyr and ggplot2 that not only provide consistent and intuitive ways to work with your data, but are emerging as industry standards (academic and non-academic).&lt;/p&gt;
+&lt;h2 id=&#34;what-is-so-different-and-new&#34;&gt;What is so different and new?&lt;/h2&gt;
+
+&lt;p&gt;Several recent developments in the R community have made it even easier for us to help you focus more on your data and questions. RStudio has emerged as a brilliant cross-platform interface to working with R. Furthermore, Hadley Wickham and colleagues, have developed several add-on packages including as dplyr, tidyr and ggplot2 that not only provide consistent and intuitive ways to work with your data, but are emerging as industry standards (academic and non-academic).&lt;/p&gt;
 
 &lt;p&gt;We couldn&amp;rsquo;t afford to ignore these developments. The second edition thus dispenses entirely with classic methods of using R, and instead embraces RStudio along with dplyr, tidyr and ggplot2.&lt;/p&gt;
 
 &lt;p&gt;You&amp;rsquo;ll love it.&lt;/p&gt;
 
-&lt;p&gt;Anything else new?
-We have a new co-author, Dylan Childs. He better at using R than Owen and Andrew, and kind of grumpy, so fits in well.  He&amp;rsquo;s also helped us expand our stats offerings in the book.  Not only do we provide more examples for basic stats (Regression, 1-way ANOVA, 2-way ANOVA) but a whole new chapter on the Generalised Linear Model.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-new&#34;&gt;Anything else new?&lt;/h2&gt;
+
+&lt;p&gt;We have a new co-author, Dylan Childs. He better at using R than Owen and Andrew, and kind of grumpy, so fits in well.  He&amp;rsquo;s also helped us expand our stats offerings in the book.  Not only do we provide more examples for basic stats (Regression, 1-way ANOVA, 2-way ANOVA) but a whole new chapter on the Generalised Linear Model.&lt;/p&gt;
 </description>
     </item>
     

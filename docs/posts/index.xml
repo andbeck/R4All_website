@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>A markdown test</title>
+      <link>/R4All_website/posts/a-markdown-test/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/R4All_website/posts/a-markdown-test/</guid>
+      <description> some code ggplot(mapping=aes(x=1:10, y=1:10)) + geom_point()  </description>
+    </item>
+    
+    <item>
       <title>Just a test</title>
       <link>/R4All_website/posts/just-a-test/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>

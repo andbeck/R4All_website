@@ -10,7 +10,7 @@ role = "Professor of Integrative Ecology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "R4All", url = "" } ]
+organizations = [ { name = "University of Zurich", url = "https://www.ieu.uzh.ch/en/staff/member/petchey_owen.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Interested in ecology, diversity, prediction, quantitative methods, a bit of programming, and making beer."
@@ -33,14 +33,9 @@ interests = [
   year = 1997
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA Natural Sciences"
+  institution = "Kings College, Cambridge University"
+  year = 1994
 
 # Social/Academic Networking
 #
@@ -63,7 +58,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:owen.petchey@ieu.uzh.ch".
 
 [[social]]
   icon = "twitter"
@@ -79,6 +74,12 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/opetchey"
+  
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-7724-1633"
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,4 +90,4 @@ interests = [
 
 +++
 
-Owen Petchey is blah, blah, blah
+Owen has also used R for nearly 20 years, and has particular expertise in teaching beginners, multivariate statistics, spatial data, programming, maximum likelihood estimation, and visualisation (i.e., nice graphs!). His research focuses on the causes and consequences of extinctions in a changing world. His group performs experiments with microbial communities, models the structure of food webs, analyses variation in biodiversity, and does fieldwork in Iceland, the UK, and Switzerland. 

@@ -15,6 +15,12 @@ linktitle = "Datasets"
   weight = 3
 +++
 
+## Datasets used in Getting Started with R, Second Edition
 
+[All the datasets (and more) one zip file](https://github.com/R4All/datasets/archive/master.zip).
+
+We don't any longer distribute datasets for the first edition of Getting Started with R.
+
+## Insights from Data
 
 Coming soon.

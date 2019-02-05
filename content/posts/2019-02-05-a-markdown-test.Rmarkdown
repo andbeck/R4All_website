@@ -1,0 +1,24 @@
+---
+title: A markdown test
+author: admin
+date: '2019-02-05'
+slug: a-markdown-test
+categories: []
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+## some code
+
+```{r echo=FALSE}
+library(ggplot2)
+```
+
+
+```{r fig.align='center', fig.width=3, fig.asp=1}
+ggplot(mapping=aes(x=1:10, y=1:10)) +
+  geom_point()
+```
+
