@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/posts/just-a-test/</loc>
+      <loc>/R4All_website/posts/just-a-test/</loc>
       <lastmod>2019-02-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/courses/</loc>
+      <loc>/R4All_website/courses/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/books/datasets/</loc>
+      <loc>/R4All_website/books/datasets/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>/books/gswr/</loc>
+      <loc>/R4All_website/books/gswr/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>/books/insights/</loc>
+      <loc>/R4All_website/books/insights/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>/books/</loc>
+      <loc>/R4All_website/books/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/philosophy/</loc>
+      <loc>/R4All_website/philosophy/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/testimonials/</loc>
+      <loc>/R4All_website/testimonials/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>/posts/</loc>
+      <loc>/R4All_website/posts/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/R4All_website/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -92,7 +92,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>/R4All_website/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -100,7 +100,7 @@
     
     <url>
     
-      <loc>/who-are-we/</loc>
+      <loc>/R4All_website/who-are-we/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -108,35 +108,35 @@
     
     <url>
     
-      <loc>/author/admin/</loc>
+      <loc>/R4All_website/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/andrew/</loc>
+      <loc>/R4All_website/author/andrew/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/dylan/</loc>
+      <loc>/R4All_website/author/dylan/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/natalie/</loc>
+      <loc>/R4All_website/author/natalie/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/</loc>
+      <loc>/R4All_website/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -144,7 +144,7 @@
     
     <url>
     
-      <loc>/authors/</loc>
+      <loc>/R4All_website/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -152,7 +152,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/R4All_website/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>/R4All_website/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -168,7 +168,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>/R4All_website/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,7 +177,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>/R4All_website/tags/</loc>
       <priority>0</priority>
     </url>
     
