@@ -6,41 +6,41 @@ name = "Natalie Cooper"
 superuser = true
 
 # Role/position
-role = "Professor of Integrative Ecology"
+role = "Researcher in Life Sciences"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "R4All", url = "" } ]
+organizations = [ { name = "Natural Hisotry Museum, London", url = "http://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/natalie-cooper.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Interested in ecology, diversity, prediction, quantitative methods, a bit of programming, and making beer."
+bio = "Interested in macroevolution, macroecology, phylogenetic comparative methods, working with museum specimens, and diversity in STEM."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "natalie.cooper@nhm.ac.uk"
 
 # List (academic) interests or hobbies
 interests = [
-  "Ecology",
-  "Diversity",
-  "Prediction",
-  "Brewing"
+  "Macroevolution",
+  "Macroecology",
+  "Palaeontology",
+  "Museums"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Ecology"
-  institution = "Imperial College London"
-  year = 1997
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Ecology & Evolution"
+  institution = "Imperial College London & Zoological Institute of London"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MSc Advanced Methods in Taxonomy & Biodiversity"
+  institution = "Imperial College London & Natural History Museum, London"
+  year = 2005
+
+[[education.courses]]
+  course = "BSc Biological Sciences"
+  institution = "University of Exeter"
+  year = 2004
 
 # Social/Academic Networking
 #
@@ -63,22 +63,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:natalie.cooper@nhm.ac.uk".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/OwenPetchey"
+  link = "https://twitter.com/nhcooper123"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=lDoG41MAAAAJ"
+  link = "https://scholar.google.com/citations?user=gvR3C30AAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/opetchey"
+  link = "https://github.com/nhcooper123"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,4 +89,5 @@ interests = [
 
 +++
 
-Owen Petchey is blah, blah, blah
+Natalie Cooper's reasearch aims to understand broad-scale patterns of biodiversity. She uses cutting-edge phylogenetic comparative methods and various large datasets to investigate a variety of topics using R. She currently has projects on whales, snakes, dinosaurs, bryozoans, corals, pangolins, tenrecs, fishes, chameleons, amphibians and many more! Natalie is an advocate for diversity in STEM and reproducibility. In her spare time she likes to read, watch Netflix and climb mountains, while sticking it to the patriarchy. 
+
