@@ -20,6 +20,15 @@
     
     <item>
       <title> </title>
+      <link>/R4All_website/who-are-we/natalie/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/R4All_website/who-are-we/natalie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> </title>
       <link>/R4All_website/who-are-we/andrew/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -34,43 +43,6 @@
       
       <guid>/R4All_website/who-are-we/dylan/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title> </title>
-      <link>/R4All_website/who-are-we/natalie/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/R4All_website/who-are-we/natalie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A little bit of maximum likelihood</title>
-      <link>/R4All_website/posts/a-little-bit-of-maximum-likelihood/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/a-little-bit-of-maximum-likelihood/</guid>
-      <description>&lt;p&gt;Get from here: &lt;a href=&#34;http://www.r4all.org/maximum-likelihood-1/&#34;&gt;http://www.r4all.org/maximum-likelihood-1/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A markdown test</title>
-      <link>/R4All_website/posts/a-markdown-test/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/a-markdown-test/</guid>
-      <description>
-
-&lt;h2 id=&#34;some-code&#34;&gt;some code&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;ggplot(mapping=aes(x=1:10, y=1:10)) +
-  geom_point()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;/R4All_website/R4All_website/posts/2019-02-05-a-markdown-test_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;288&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -160,16 +132,6 @@ dd &amp;lt;- read_csv(readr_example(&amp;quot;mtcars.csv&amp;quot;))
     </item>
     
     <item>
-      <title>Why adjust your r-squared?</title>
-      <link>/R4All_website/posts/why-adjust-your-r-squared/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/why-adjust-your-r-squared/</guid>
-      <description>&lt;p&gt;Get from here: &lt;a href=&#34;http://www.r4all.org/adjusted-r-squared-demo/&#34;&gt;http://www.r4all.org/adjusted-r-squared-demo/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Datasets</title>
       <link>/R4All_website/books/datasets/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
@@ -252,7 +214,7 @@ Paperback at &lt;a href=&#34;https://global.oup.com/academic/product/getting-sta
 
 &lt;p&gt;If you&amp;rsquo;re having a brain melt figuring out the difference between &lt;code&gt;read_csv&lt;/code&gt; and &lt;code&gt;read.csv&lt;/code&gt; and their use in the RStudio Import Dataset tool, look at this post about &lt;a href=&#34;/R4All_website/R4All_website/posts/importing-data-update/&#34;&gt;using the &lt;strong&gt;readr&lt;/strong&gt; package and &lt;code&gt;read_csv&lt;/code&gt; function to import data.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;the-first-edition-of-getting-started-with-r&#34;&gt;The first edition of Getting Started with R&lt;/h2&gt;
+&lt;h2 id=&#34;about-the-first-edition-of-getting-started-with-r&#34;&gt;About the first edition of &lt;em&gt;Getting Started with R&lt;/em&gt;&lt;/h2&gt;
 
 
 
