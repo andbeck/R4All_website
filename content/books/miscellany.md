@@ -24,7 +24,7 @@ Here is a post [Lost Packages]({{< ref "/posts/2019-02-05-getting-lost-packages.
 If you're having a brain melt figuring out the difference between `read_csv` and `read.csv` and their use in the RStudio Import Dataset tool, look at this post about [using the **readr** package and `read_csv` function to import data.]({{< ref "/posts/2019-02-05-importing-data-update.markdown" >}})
 
 
-## The first edition of Getting Started with R
+## About the first edition of *Getting Started with R*
 
 {{< figure library="1" src="FirstEdCover.jpg" title="" >}} 
 

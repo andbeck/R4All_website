@@ -24,5 +24,5 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-We specialise in teaching R to those who’ve never used it before. Just as good is if you’ve used it, or are using it, but want to improve your foundation and workflow
+We specialise in teaching R to those who’ve never used it. And to folk using R already but want to improve their foundation and workflow.
 <script async defer src="https://buttons.github.io/buttons.js"></script>

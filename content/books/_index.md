@@ -14,5 +14,5 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-
+Please look in the menu on the left (or elsewhere) for information about the book *Getting Started with R*, the datasets used in the book, and some miscellany.
 

@@ -12,24 +12,6 @@
     
     
     <item>
-      <title>A little bit of maximum likelihood</title>
-      <link>/R4All_website/posts/a-little-bit-of-maximum-likelihood/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/a-little-bit-of-maximum-likelihood/</guid>
-      <description>Get from here: http://www.r4all.org/maximum-likelihood-1/</description>
-    </item>
-    
-    <item>
-      <title>A markdown test</title>
-      <link>/R4All_website/posts/a-markdown-test/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/a-markdown-test/</guid>
-      <description> some code ggplot(mapping=aes(x=1:10, y=1:10)) + geom_point()  </description>
-    </item>
-    
-    <item>
       <title>Getting lost packages</title>
       <link>/R4All_website/posts/getting-lost-packages/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -47,15 +29,6 @@ This has not happened for some time, so hopefully you won&amp;rsquo;t experience
       
       <guid>/R4All_website/posts/importing-data-update/</guid>
       <description>As the Second Edition of Getting Started with R was going to press, Rstudio changed the function it uses to import data in the Import Dataset tool, from the base function read.csv() to the read_csv() function in the readr package. Since then, the Import Dataset button gives a menu with an option to use either (&amp;ldquo;base&amp;rdquo; uses read.csv and &amp;ldquo;readr&amp;rdquo; uses read_csv) From the Rstudio Blog about the readr package:</description>
-    </item>
-    
-    <item>
-      <title>Why adjust your r-squared?</title>
-      <link>/R4All_website/posts/why-adjust-your-r-squared/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/R4All_website/posts/why-adjust-your-r-squared/</guid>
-      <description>Get from here: http://www.r4all.org/adjusted-r-squared-demo/</description>
     </item>
     
   </channel>

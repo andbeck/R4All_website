@@ -16,4 +16,4 @@ weight = 7
 #  weight = 1
 +++
 
-{{< figure library="1" src="SecondEdCover.png" title="" >}} The Second Edition of our book, a major reworking from the first, is out! Its still got a jellyfish on the front, but just about everything else is different / revised. [More about the Second Edition here]({{< ref "/books/GSwR2.md" >}}).
+{{< figure library="1" src="SecondEdCover.png" title="" >}} The Second Edition of *Getting Started with R*, a major reworking from the first, is out! It still has a jellyfish on the cover, but just about everything else is different/revised. [More about the Second Edition here]({{< ref "/books/GSwR2.md" >}}).

@@ -6,40 +6,32 @@ name = "Andrew Beckerman"
 superuser = true
 
 # Role/position
-role = "Senior Lecturer"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "R4All", url = "" } ]
+organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Interested in ..."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Daphnia",
-  "Food webs",
-  "Biking"
+  "",
+  "",
+  ""
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD"
-  institution = "Somewhere"
-  year = 1997
+  course = " "
+  institution = " "
+  year = 1999
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 #
@@ -67,17 +59,17 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/OwenPetchey"
+  link = "https://twitter.com/xyz"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=lDoG41MAAAAJ"
+  link = "https://scholar.google.com/citations?user=blahblah"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/opetchey"
+  link = "https://github.com/xyz"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,4 +80,4 @@ interests = [
 
 +++
 
-Andrew Beckerman is blah, blah, blah
+
