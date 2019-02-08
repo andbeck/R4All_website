@@ -9,7 +9,7 @@ title = "R4All"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.r4all.org/"
+baseurl = "https://r4all.org/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
