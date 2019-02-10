@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R4All on R4All</title>
-    <link>/R4All_website/</link>
+    <link>/</link>
     <description>Recent content in R4All on R4All</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/R4All_website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title> </title>
-      <link>/R4All_website/who-are-we/owen/</link>
+      <link>/who-are-we/owen/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/who-are-we/owen/</guid>
+      <guid>/who-are-we/owen/</guid>
       <description></description>
     </item>
     
     <item>
       <title> </title>
-      <link>/R4All_website/who-are-we/natalie/</link>
+      <link>/who-are-we/natalie/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/who-are-we/natalie/</guid>
+      <guid>/who-are-we/natalie/</guid>
       <description></description>
     </item>
     
     <item>
       <title> </title>
-      <link>/R4All_website/who-are-we/andrew/</link>
+      <link>/who-are-we/andrew/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/who-are-we/andrew/</guid>
+      <guid>/who-are-we/andrew/</guid>
       <description></description>
     </item>
     
     <item>
       <title> </title>
-      <link>/R4All_website/who-are-we/dylan/</link>
+      <link>/who-are-we/dylan/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/who-are-we/dylan/</guid>
+      <guid>/who-are-we/dylan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting lost packages</title>
-      <link>/R4All_website/posts/getting-lost-packages/</link>
+      <link>/posts/getting-lost-packages/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/R4All_website/posts/getting-lost-packages/</guid>
+      <guid>/posts/getting-lost-packages/</guid>
       <description>&lt;p&gt;To use the functions in an add-on package you first need to install the package. Remember you only need install it once.&lt;/p&gt;
 
 &lt;p&gt;During the writing of the book, and in early 2018 the normal method for installing the &lt;strong&gt;ggfortify&lt;/strong&gt; add-on package didn’t work (we got the message &lt;code&gt;package ggfortify is not available (for R Version 3.2.4)&lt;/code&gt;).&lt;/p&gt;
@@ -76,10 +76,10 @@ plot(model, add.smooth = FALSE)
     
     <item>
       <title>Importing data update</title>
-      <link>/R4All_website/posts/importing-data-update/</link>
+      <link>/posts/importing-data-update/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/R4All_website/posts/importing-data-update/</guid>
+      <guid>/posts/importing-data-update/</guid>
       <description>&lt;p&gt;As the Second Edition of &lt;em&gt;Getting Started with R&lt;/em&gt; was going to press, Rstudio changed the function it uses to import data in the &lt;strong&gt;Import Dataset&lt;/strong&gt; tool, from the base function &lt;code&gt;read.csv()&lt;/code&gt; to the &lt;code&gt;read_csv()&lt;/code&gt; function in the &lt;strong&gt;readr&lt;/strong&gt; package. Since then, the &lt;strong&gt;Import Dataset&lt;/strong&gt; button gives a menu with an option to use either (&amp;ldquo;base&amp;rdquo; uses &lt;code&gt;read.csv&lt;/code&gt; and &amp;ldquo;readr&amp;rdquo; uses &lt;code&gt;read_csv&lt;/code&gt;) From the Rstudio Blog about the &lt;strong&gt;readr&lt;/strong&gt; package:&lt;/p&gt;
 
 &lt;p&gt;Compared to base equivalents like &lt;code&gt;read.csv&lt;/code&gt;, readr is much faster and gives more convenient output: it never converts strings to factors, can parse date/times, and it doesn’t munge the column names.&lt;/p&gt;
@@ -133,10 +133,10 @@ dd &amp;lt;- read_csv(readr_example(&amp;quot;mtcars.csv&amp;quot;))
     
     <item>
       <title>Datasets</title>
-      <link>/R4All_website/books/datasets/</link>
+      <link>/books/datasets/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/datasets/</guid>
+      <guid>/books/datasets/</guid>
       <description>
 
 &lt;h2 id=&#34;datasets-used-in-getting-started-with-r-second-edition&#34;&gt;Datasets used in &lt;em&gt;Getting Started with R&lt;/em&gt;, Second Edition&lt;/h2&gt;
@@ -149,10 +149,10 @@ dd &amp;lt;- read_csv(readr_example(&amp;quot;mtcars.csv&amp;quot;))
     
     <item>
       <title>Getting Started with R, Second Edition</title>
-      <link>/R4All_website/books/gswr2/</link>
+      <link>/books/gswr2/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/gswr2/</guid>
+      <guid>/books/gswr2/</guid>
       <description>
 
 
@@ -162,7 +162,7 @@ dd &amp;lt;- read_csv(readr_example(&amp;quot;mtcars.csv&amp;quot;))
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/R4All_website/R4All_website/img/SecondEdCover.png&#34; /&gt;
+&lt;img src=&#34;/img/SecondEdCover.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -200,19 +200,19 @@ Paperback at &lt;a href=&#34;https://global.oup.com/academic/product/getting-sta
     
     <item>
       <title>Miscellany</title>
-      <link>/R4All_website/books/miscellany/</link>
+      <link>/books/miscellany/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/miscellany/</guid>
+      <guid>/books/miscellany/</guid>
       <description>
 
 &lt;h2 id=&#34;lost-packages&#34;&gt;Lost packages&lt;/h2&gt;
 
-&lt;p&gt;Here is a post &lt;a href=&#34;/R4All_website/R4All_website/posts/getting-lost-packages/&#34;&gt;Lost Packages&lt;/a&gt; about what to do if, when attempting to install a package you get a message like &lt;code&gt;package ggfortify is not available (for R Version 3.2.4)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a post &lt;a href=&#34;/posts/getting-lost-packages/&#34;&gt;Lost Packages&lt;/a&gt; about what to do if, when attempting to install a package you get a message like &lt;code&gt;package ggfortify is not available (for R Version 3.2.4)&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;importing-data-update&#34;&gt;Importing data update&lt;/h2&gt;
 
-&lt;p&gt;If you&amp;rsquo;re having a brain melt figuring out the difference between &lt;code&gt;read_csv&lt;/code&gt; and &lt;code&gt;read.csv&lt;/code&gt; and their use in the RStudio Import Dataset tool, look at this post about &lt;a href=&#34;/R4All_website/R4All_website/posts/importing-data-update/&#34;&gt;using the &lt;strong&gt;readr&lt;/strong&gt; package and &lt;code&gt;read_csv&lt;/code&gt; function to import data.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re having a brain melt figuring out the difference between &lt;code&gt;read_csv&lt;/code&gt; and &lt;code&gt;read.csv&lt;/code&gt; and their use in the RStudio Import Dataset tool, look at this post about &lt;a href=&#34;/posts/importing-data-update/&#34;&gt;using the &lt;strong&gt;readr&lt;/strong&gt; package and &lt;code&gt;read_csv&lt;/code&gt; function to import data.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;about-the-first-edition-of-getting-started-with-r&#34;&gt;About the first edition of &lt;em&gt;Getting Started with R&lt;/em&gt;&lt;/h2&gt;
 
@@ -223,7 +223,7 @@ Paperback at &lt;a href=&#34;https://global.oup.com/academic/product/getting-sta
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/R4All_website/R4All_website/img/FirstEdCover.jpg&#34; /&gt;
+&lt;img src=&#34;/img/FirstEdCover.jpg&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -241,7 +241,7 @@ Paperback at &lt;a href=&#34;https://global.oup.com/academic/product/getting-sta
 
 &lt;p&gt;Getting Started with R – its the book you and your students want to read before all the others.&lt;/p&gt;
 
-&lt;p&gt;Well, it was. Now you should only look at &lt;a href=&#34;/R4All_website/R4All_website/books/gswr2/&#34;&gt;the Second Edition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Well, it was. Now you should only look at &lt;a href=&#34;/books/gswr2/&#34;&gt;the Second Edition&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

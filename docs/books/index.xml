@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on R4All</title>
-    <link>/R4All_website/books/</link>
+    <link>/books/</link>
     <description>Recent content in Overview on R4All</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/R4All_website/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datasets</title>
-      <link>/R4All_website/books/datasets/</link>
+      <link>/books/datasets/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/datasets/</guid>
+      <guid>/books/datasets/</guid>
       <description>Datasets used in Getting Started with R, Second Edition All the datasets (and more) one zip file.
 We don&amp;rsquo;t any longer distribute datasets for the first edition of Getting Started with R.</description>
     </item>
     
     <item>
       <title>Getting Started with R, Second Edition</title>
-      <link>/R4All_website/books/gswr2/</link>
+      <link>/books/gswr2/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/gswr2/</guid>
+      <guid>/books/gswr2/</guid>
       <description>We are pleased to announce the second edition of Getting Started with R Paperback at OUP, Amazon UK, Amazon.com, Amazon.de, Buch.ch
 Electric version at Oxford Scholarship Online.
 We got great feedback about our book &amp;ldquo;Getting Started with R, An Introduction for Biologists&amp;rdquo;, but realised over the last couple of years that we were using and teaching R very differently from what we wrote about back in 2010. So we have almost completely rewritten for a very different and new Second Edition.</description>
@@ -34,10 +34,10 @@ We got great feedback about our book &amp;ldquo;Getting Started with R, An Intro
     
     <item>
       <title>Miscellany</title>
-      <link>/R4All_website/books/miscellany/</link>
+      <link>/books/miscellany/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/R4All_website/books/miscellany/</guid>
+      <guid>/books/miscellany/</guid>
       <description>Lost packages Here is a post Lost Packages about what to do if, when attempting to install a package you get a message like package ggfortify is not available (for R Version 3.2.4).
 Importing data update If you&amp;rsquo;re having a brain melt figuring out the difference between read_csv and read.csv and their use in the RStudio Import Dataset tool, look at this post about using the readr package and read_csv function to import data.</description>
     </item>
